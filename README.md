@@ -2,9 +2,6 @@
 A simple Hangman Game coded in Python with the inclusion of ASCII Art.
 Certainly! Below is an example README.md for a Hangman game written in Python, featuring ASCII art:
 
-
-# Hangman Game
-
 ## Description
 
 Welcome to the classic Hangman game implemented in Python! This console-based game challenges players to guess a word by suggesting letters within a limited number of attempts. The game features ASCII art to enhance the user experience.
@@ -20,7 +17,7 @@ Welcome to the classic Hangman game implemented in Python! This console-based ga
 
 Here's a glimpse of what the game looks like during gameplay:
 
-
+```
   +---+
   |   |
       |
@@ -28,7 +25,7 @@ Here's a glimpse of what the game looks like during gameplay:
       |
       |
 =========
-
+```
 Enter a letter: _
 _ _ _ _ _ _ _
 
@@ -55,13 +52,5 @@ _ _ _ _ _ _ _
 
 4. Follow the on-screen instructions to guess the letters and save the hanging man!
 
-
-
----
-
-**Note:** The ASCII art used in this README is for illustrative purposes and may not accurately represent the game state during actual gameplay.
-
 Enjoy playing Hangman! 🎉
-```
 
-Remember to replace the placeholder URLs and customize the content to match your project's structure and details.
