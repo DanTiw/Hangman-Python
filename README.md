@@ -1,6 +1,5 @@
 # Hangman-Python
 A simple Hangman Game coded in Python with the inclusion of ASCII Art.
-Certainly! Below is an example README.md for a Hangman game written in Python, featuring ASCII art:
 
 ## Description
 
